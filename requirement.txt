@@ -1,0 +1,13 @@
+streamlit
+vaderSentiment
+PyPDF2
+scikit-learn
+wordcloud
+altair
+matplotlib
+numpy
+pandas
+
+sounddevice
+soundfile
+librosa
