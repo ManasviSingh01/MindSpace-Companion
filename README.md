@@ -1,3 +1,4 @@
+
 # 🧠 MindSpace Companion
 
 **An AI-powered mental health journaling app built with Streamlit**  
@@ -37,3 +38,11 @@ Track your mood, reflect through voice or text, and get personalized support eve
 ```bash
 git clone https://github.com/yourusername/mindspace-companion.git
 cd mindspace-companion
+
+2. Install Requirements
+pip install -r requirements.txt
+
+3. Run the App
+streamlit run app.py
+
+
